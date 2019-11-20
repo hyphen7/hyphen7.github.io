@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hyphen-Seven</title>
-    <link>https://hyphen7.github.io/</link>
+    <link>https://blog.lol320.work/</link>
     <description>Recent content on Hyphen-Seven</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Sun, 10 Nov 2019 23:14:02 +0900</lastBuildDate>
     
-	<atom:link href="https://hyphen7.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.lol320.work/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Critical Communication Day 2</title>
-      <link>https://hyphen7.github.io/post/20191110_training2/</link>
+      <link>https://blog.lol320.work/post/20191110_training2/</link>
       <pubDate>Sun, 10 Nov 2019 23:14:02 +0900</pubDate>
       
-      <guid>https://hyphen7.github.io/post/20191110_training2/</guid>
+      <guid>https://blog.lol320.work/post/20191110_training2/</guid>
       <description>構造化も2種類 説明型と提案型 説明型 説明型とは，伝えたいこととそのポイントをデータに基づき主張するときに使う。
 全体像とアーギュメント（データと論拠に基づく主張）を用意し，イントロ⇒ボディ⇒コンクルの流れで話す。
 イントロでは，
@@ -32,10 +32,10 @@
     
     <item>
       <title>Critical Communication Day 1</title>
-      <link>https://hyphen7.github.io/post/20191031_training/</link>
+      <link>https://blog.lol320.work/post/20191031_training/</link>
       <pubDate>Thu, 31 Oct 2019 23:37:29 +0900</pubDate>
       
-      <guid>https://hyphen7.github.io/post/20191031_training/</guid>
+      <guid>https://blog.lol320.work/post/20191031_training/</guid>
       <description>コミュニケーションには2種類 日常のコミュニケーションと仕事のコミュニケーション 今回受けた研修では、仕事で必要なコミュニケーション法を学んだ。
 日常のコミュニケーションは
  曖昧である 詳細に深堀りしない 会話を通して、人間関係を構築する  一方、仕事のコミュニケーションは
@@ -54,10 +54,10 @@
     
     <item>
       <title>First</title>
-      <link>https://hyphen7.github.io/post/first/</link>
+      <link>https://blog.lol320.work/post/first/</link>
       <pubDate>Thu, 31 Oct 2019 00:41:56 +0900</pubDate>
       
-      <guid>https://hyphen7.github.io/post/first/</guid>
+      <guid>https://blog.lol320.work/post/first/</guid>
       <description>テスト投稿です。</description>
     </item>
     
